@@ -9,7 +9,6 @@
         <link rel="stylesheet" href="styles/page.css"/>
 
         <title>Home - Watchers</title>
-    </head>
 
     <body>
         <header>
@@ -29,4 +28,3 @@
             <input id="search_input" class="search close"/>
         </header>
     </body>
-</html>
