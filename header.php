@@ -7,9 +7,13 @@
         <link rel="stylesheet" href="styles/page.css"/>
 
         <title>Home - Watchers</title>
-
+    </head>
     <body>
         <header>
+            <?php
+                header("Cache-Control: no-cache, must-revalidate");
+            ?>
+
             <nav>
                 <ul id="Btn" class="Menu Menu_bar close">
                     <li><a href="#">Menu</a></li>
@@ -26,3 +30,4 @@
             <input id="search_input" class="search close"/>
         </header>
     </body>
+</html>
