@@ -1,0 +1,39 @@
+{
+    "movies": [
+        {
+            "title": "Top Gun",
+            "subt": "Asses indomáveis",
+            "img": "images/Top-Gun.jpg",
+            "duration": "1h 22min 22s",
+            "language": "Dublado"
+        },
+        {
+            "title": "Super herói",
+            "subt": "O filme",
+            "img": "images/Super herói o filme.jpg",
+            "duration": "1h 22min 22s",
+            "language": "Dublado"
+        },
+        {
+            "title": "Invasores",
+            "subt": "Nenhum sistema está à salvo",
+            "img": "images/Invasores.jpg",
+            "duration": "1h 41min 47s",
+            "language": "Dublado"
+        },
+        {
+            "title": "Quebrando a banca",
+            "subt": " ",
+            "img": "images/Quebrando a banca.jpg",
+            "duration": "2h 02min 35s",
+            "language": "Dublado"
+        },
+        {
+            "title": "Robôs",
+            "subt": " ",
+            "img": "images/Robos.jpg",
+            "duration": "1h 29min 48s",
+            "language": "Dublado"
+        }
+    ]
+}
