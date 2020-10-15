@@ -2,7 +2,7 @@ header img{
     filter: invert(100%);
 }
 
-header {
+header{
     background-color: #121212;
     border-bottom: 0.5px solid #000000
 }
@@ -11,7 +11,7 @@ header {
     position: absolute;
     width: 100%;
 
-    transform: translateX(-110%);
+    /* transform: translateX(-10%); */
     transition: 200ms linear;
 }
 
@@ -24,13 +24,14 @@ header {
 }
 
 .open{
-    transform: translateX(0);
+    /* transform: translateX(0); */
 }
 
-.Logo {
+.Logo{
     width: 40%;
     padding: 10px;
     margin-left: 30%;
+    align-content: center;
 }
 
 .search_icon{

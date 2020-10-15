@@ -12,7 +12,7 @@ function Condition_menu() {
 
 function Open() {
     var $element = document.getElementById("Btn");
-    var $Conteudo = document.getElementById("conteudo");
+    var $Conteudo = document.getElementById("content");
 
     $element.classList.remove("close");
     $element.classList.add("open");
@@ -22,7 +22,7 @@ function Open() {
 
 function Close() {
     var $element = document.getElementById("Btn");
-    var $Conteudo = document.getElementById("conteudo");
+    var $Conteudo = document.getElementById("content");
 
     $element.classList.remove("open");
     $element.classList.add("close");

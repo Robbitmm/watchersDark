@@ -8,7 +8,12 @@
     <body>
         <?php
             include_once('header.php');
-            include_once('menuContent.php');
         ?>
+        
+        <div id="content">
+            <?php
+                include_once('menuContent.php');
+            ?>
+        </div>
     </body>
 </html>

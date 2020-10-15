@@ -5,35 +5,40 @@
             "subt": "Asses indomáveis",
             "img": "images/Top-Gun.jpg",
             "duration": "1h 22min 22s",
-            "language": "Dublado"
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1qOJpFjuBGaYKXnwV1bO3utfaieBNznxD/preview?"
         },
         {
             "title": "Super herói",
             "subt": "O filme",
             "img": "images/Super herói o filme.jpg",
             "duration": "1h 22min 22s",
-            "language": "Dublado"
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1FmwPXizNYqkjn3nHRoK1z0s7qTLC39I2/preview?"
         },
         {
             "title": "Invasores",
             "subt": "Nenhum sistema está à salvo",
             "img": "images/Invasores.jpg",
             "duration": "1h 41min 47s",
-            "language": "Dublado"
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1-Yr6o4jL534iM17XIlCz0YR30gerh9Tb/preview?"
         },
         {
             "title": "Quebrando a banca",
             "subt": " ",
             "img": "images/Quebrando a banca.jpg",
             "duration": "2h 02min 35s",
-            "language": "Dublado"
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/1xEl8yO3OtdB_D9Yp-IT5gxZqbc8qa4c9/preview?"
         },
         {
             "title": "Robôs",
             "subt": " ",
             "img": "images/Robos.jpg",
             "duration": "1h 29min 48s",
-            "language": "Dublado"
+            "language": "Dublado",
+            "link": "https://drive.google.com/file/d/11nSy0vsX6Vtkzx1YJBgiSFRauARhjNfQ/preview?"
         }
     ]
 }
