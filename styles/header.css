@@ -1,3 +1,7 @@
+body{
+    background: #141414;
+}
+
 header img{
     filter: invert(100%);
 }
@@ -11,7 +15,7 @@ header{
     position: absolute;
     width: 100%;
 
-    /* transform: translateX(-10%); */
+    transform: translateX(-110%);
     transition: 200ms linear;
 }
 
@@ -24,7 +28,7 @@ header{
 }
 
 .open{
-    /* transform: translateX(0); */
+    transform: translateX(-2%); /* To aling the hr to the border*/
 }
 
 .Logo{
@@ -72,6 +76,7 @@ header{
 }
 
 .Menu li {
+    display: block;
     list-style: none;
     padding: 10px;
     border-bottom: 1px solid #808080;

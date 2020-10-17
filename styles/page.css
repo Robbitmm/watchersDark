@@ -1,7 +1,3 @@
-body{
-    background-color: #141414;
-}
-
 .movies{
     width: 315px;
     margin-left: auto;
@@ -29,17 +25,18 @@ nav{
 }
 
 .capa{
-    border-radius: 10px;
+    border-radius: 0px;
     margin-right: 10px;
     height: 134px;
     width: 94px;
+    box-shadow: 5px 5px 10px #000000;
 }
 
 a{
     text-decoration: none;
 }
 
-li{
+.info{
     display: none;
     list-style-type: none;
     color: #fff;
