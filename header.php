@@ -9,16 +9,12 @@
     </head>
     <body>
         <header>
-            <?php
-                header("Cache-Control: no-cache, must-revalidate");
-            ?>
-
             <nav>
                 <ul id="Btn" class="Menu Menu_bar close">
                     <li><a href="index.php">Menu</a></li>
                     <!--<li><a href="#">Categorias</a></li>-->
-                    <li><a href="#Filmes">Filmes</a></li>
-                    <li><a href="#Series">Séries</a></li>
+                    <li><a href="index.php#movies">Filmes</a></li>
+                    <!--<li><a href="index.php#Series">Séries</a></li>-->
                 </ul>
             </nav>
     

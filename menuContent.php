@@ -24,7 +24,7 @@
             $outout .= "<nav class='title'>";
             $outout .= "<a href='$link'>";
             $outout .= "<img class='capa' src='$img'>";
-            $outout .= "<ul class'info'>";
+            $outout .= "<ul class='info'>";
             $outout .= "<li class='topic-Title'>".$title."<li>";
             $outout .= "<li class='topic-Subtitle'>".$subt."</li>";
             $outout .= "<li class='topic'>".$time."<li>";
